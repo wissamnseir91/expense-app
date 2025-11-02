@@ -235,6 +235,8 @@ Response (201):
 # Run all tests
 php artisan test
 
+```
+
 ## 🎯 Assumptions
 
 1. **No Authentication Required**: The API is open and doesn't require authentication.
